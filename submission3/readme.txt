@@ -3,7 +3,7 @@ Link to unlisted youtube video:
 
 
 
-
+Concept Map Drive link (open for all): https://drive.google.com/file/d/1krLpVPzHOJhl0qq6CKYmEzjXUPND0rq0/view?usp=sharing 
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
