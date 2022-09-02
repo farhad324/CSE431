@@ -1,5 +1,6 @@
 # Extra-Credit-Bonus Contribution List for CSE431:
 - [Bangladesh Solar Irradiation Prediction - GHI vs DateTime - Time Series - Stacked LSTM - Tensorflow/Keras](https://github.com/farhad324/BD-Solar-Irradiation-Prediction-Stacked-LSTM)
+- [Popular Transformer Architectures](https://github.com/farhad324/Popular-Transformer-Architectures)
 
 # Other Publication/Report Based Courses' Repository
 - [CSE424 - Pattern Recognition](https://github.com/farhad324/CSE424) *Grade A*
