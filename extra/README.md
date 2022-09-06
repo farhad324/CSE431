@@ -4,9 +4,9 @@
 - [Active Learning on MNIST with Least Confidence](https://github.com/farhad324/Active-Learning-on-MNIST-with-Least-Confidence)
 
 # Other Publication/Report Based Courses' Repository
-- [CSE424 - Pattern Recognition](https://github.com/farhad324/CSE424) *Grade A*
-- [CSE438 - Applied Data Science for Practitioners](https://github.com/farhad324/CSE438) *Grade A+*
-- [CSE474 - Simulation and Modeling](https://github.com/farhad324/Monte-Carlo-Dropout-Project-BRACU-CSE474) *Grade A*
+- [CSE424 - Pattern Recognition](https://github.com/farhad324/CSE424) 
+- [CSE438 - Applied Data Science for Practitioners](https://github.com/farhad324/CSE438) 
+- [CSE474 - Simulation and Modeling](https://github.com/farhad324/Monte-Carlo-Dropout-Project-BRACU-CSE474) 
 
 # Others - My Research Works, You can read
 - [Note: Plant Leaf Disease Network (PLeaD-Net): Identifying Plant Leaf Diseases through Leveraging Limited-Resource Deep Convolutional Neural Network](https://www.researchgate.net/publication/361561141_Note_Plant_Leaf_Disease_Network_PLeaD-Net_Identifying_Plant_Leaf_Diseases_through_Leveraging_Limited-Resource_Deep_Convolutional_Neural_Network)
