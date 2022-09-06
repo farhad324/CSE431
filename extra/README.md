@@ -3,7 +3,7 @@
 - [Popular Transformer Architectures](https://github.com/farhad324/Popular-Transformer-Architectures)
 - [Active Learning on MNIST with Least Confidence](https://github.com/farhad324/Active-Learning-on-MNIST-with-Least-Confidence)
 
-# Other Publication/Report Based Courses' Repository
+# Others - Publication/Report Based Courses' Repository
 - [CSE424 - Pattern Recognition](https://github.com/farhad324/CSE424) 
 - [CSE438 - Applied Data Science for Practitioners](https://github.com/farhad324/CSE438) 
 - [CSE474 - Simulation and Modeling](https://github.com/farhad324/Monte-Carlo-Dropout-Project-BRACU-CSE474) 
