@@ -9,7 +9,7 @@
 - [CSE474 - Simulation and Modeling](https://github.com/farhad324/Monte-Carlo-Dropout-Project-BRACU-CSE474) 
 
 # Others - Online Courses
-- - [Online Course Certificate List](https://github.com/farhad324/My-eCertificates) ***Includes one Professional Certificate and one Specialization (of Coursera), Machine Learning Fundamentals with Python Track (of DataCamp), 60+ course certificates in total***
+- [Online Course Certificate List](https://github.com/farhad324/My-eCertificates) ***Includes one Professional Certificate and one Specialization (of Coursera), Machine Learning Fundamentals with Python Track (of DataCamp), 60+ course certificates in total***
 # Others - My Research Works, You can read
 - [Note: Plant Leaf Disease Network (PLeaD-Net): Identifying Plant Leaf Diseases through Leveraging Limited-Resource Deep Convolutional Neural Network](https://www.researchgate.net/publication/361561141_Note_Plant_Leaf_Disease_Network_PLeaD-Net_Identifying_Plant_Leaf_Diseases_through_Leveraging_Limited-Resource_Deep_Convolutional_Neural_Network)
 - [Identification of Plant Leaf Diseases using Deep Convolutional Neural Network with Less Computational Power](https://www.researchgate.net/publication/356811443_Identification_of_Plant_Leaf_Diseases_using_Deep_Convolutional_Neural_Network_with_Less_Computational_Power)
