@@ -1,4 +1,8 @@
-**PAPER IS STILL GETTING REGULAR UPDATES, WILL BE ADDING MORE MODELS FOR SOTA ANALYSIS*
+Unlisted youtube video:
+
+
+Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/17yktJzhRrS-UDDpYhErfhwupvkJqgr8SoRg2r4NUkKQ/edit?usp=sharing 
 
 Conference submitted paper / paper submission / login Link:
 https://cmt3.research.microsoft.com/ICCIT2022/Submission/Index
