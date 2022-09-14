@@ -24,5 +24,5 @@ Conference URL:
 https://iccit.org.bd/2022/home/
 
 Group Number: 01
-22341042	Md. Farhadul Islam
 20101592	Fardin Bin Rahman
+22341042	Md. Farhadul Islam
